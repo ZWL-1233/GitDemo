@@ -1,6 +1,6 @@
 # 熊二的自我介绍
 
-<img src="https://ts1.tc.mm.bing.net/th/id/R-C.ff6df3dd1f8f401555fb60d1d7145840?rik=PDyehkFUWaWxsg&riu=http%3a%2f%2fugc.qpic.cn%2fbaikepic%2f38665%2fcut-20140513174059-1876257190.jpg%2f0&ehk=xAMDk7RqB0d7wtOn%2bdr3eYwQYlibpsyeLQgamk6ZmPo%3d&risl=&pid=ImgRaw&r=0" width="200" alt="熊二形象">
+<img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.7KcEduOSwmi3EabGOO3KkwHaE-?w=252&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="200" alt="熊二形象">
 
 大家好，我是**熊二**，我的身份是*熊*。以下是我的自我介绍：
 
